@@ -82,4 +82,9 @@ body {
     #showcase p {
         font-size: 14px;
     }
+    #showcase,
+    #section-a,
+    #section-c {
+        overflow-x: hidden;
+    }
 }
